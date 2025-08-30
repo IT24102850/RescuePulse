@@ -1,4 +1,4 @@
 venv/
 *.pyc
 __pycache__/
-alerts.db  # Omit this line if you want to share the database with the team
+# alerts.db  # Remove if you want to track alerts.db
