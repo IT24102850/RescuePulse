@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RescuePulse: Core Emergency Services API
 A RESTful API for managing emergency alerts using Flask and SQLite.
 
@@ -12,3 +13,6 @@ A RESTful API for managing emergency alerts using Flask and SQLite.
 - GET /alerts/<id>: Get an alert
 - PUT /alerts/<id>: Update an alert
 - DELETE /alerts/<id>: Delete an alert
+=======
+# RescuePulse
+>>>>>>> 9632326c8e9ace33b370412b73f950d40f895fd4
